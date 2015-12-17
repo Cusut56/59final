@@ -42,7 +42,8 @@ void setup(){
    ellipse(600,430,16,16);
      ellipse(500,430,56,56);
     stroke(0);
-  
+  fill(0);
+  text( "Tara Cusumano ",x,y,550,480 );
     
     
    
@@ -60,3 +61,6 @@ void setup(){
     fill(0,100,50);
     rect(0,surface,width,height-surface);
   }
+
+
+   
